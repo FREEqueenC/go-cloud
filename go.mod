@@ -64,5 +64,5 @@ require (
 	google.golang.org/appengine v1.1.0 // indirect
 	google.golang.org/protobuf v1.36.10 // indirect
 	gopkg.in/ini.v1 v1.37.0 // indirect
-	gopkg.in/yaml.v2 v2.2.1 // indirect
+	gopkg.in/yaml.v2 v2.2.8 // indirect
 )
